@@ -1,0 +1,21 @@
+.options li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.red-button{
+    background-color: #e3513b;
+    color: #fff;
+    border: 0;
+    padding: 7px 30px;
+    margin-right: 1em;
+}
+
+.green-button{
+    background-color: #4cae4c;
+}
+
+.blue-button{
+    background-color: #568fe2;
+}
